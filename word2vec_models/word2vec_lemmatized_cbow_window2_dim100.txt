@@ -1,0 +1,5 @@
+Veri tipi: lemmatized
+Model türü: CBOW
+Pencere boyutu: 2
+Vektör boyutu: 100
+Açıklama: Bu model lemmatized metinler üzerinde CBOW algoritması ile eğitilmiştir. Pencere boyutu 2 ve her kelime 100 boyutlu vektöre gömülmüştür.

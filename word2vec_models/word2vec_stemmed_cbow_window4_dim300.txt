@@ -1,0 +1,5 @@
+Veri tipi: stemmed
+Model türü: CBOW
+Pencere boyutu: 4
+Vektör boyutu: 300
+Açıklama: Bu model stemmed metinler üzerinde CBOW algoritması ile eğitilmiştir. Pencere boyutu 4 ve her kelime 300 boyutlu vektöre gömülmüştür.
