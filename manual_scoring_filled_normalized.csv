@@ -1,0 +1,81 @@
+model_name,suggestion_rank,suggestion_text,similarity,manual_score
+word2vec_lemmatized_cbow_window2_dim100,1,blasphemer persecutor injurious obtained mercy ignorantly unbelief,0.9778062105178832,0.9778
+word2vec_lemmatized_cbow_window2_dim100,2,remembered u low estate mercy endureth ever,0.9672293663024902,0.9672
+word2vec_lemmatized_cbow_window2_dim100,3,indeed guidance mercy believer,0.9659863114356996,0.966
+word2vec_lemmatized_cbow_window2_dim100,4,shall judgment without mercy hath shewed mercy mercy rejoiceth judgment,0.9648639559745787,0.9649
+word2vec_lemmatized_cbow_window2_dim100,5,observe lying vanity forsake mercy,0.964670956134796,0.9647
+word2vec_lemmatized_cbow_window2_dim300,1,blasphemer persecutor injurious obtained mercy ignorantly unbelief,0.9780908823013306,0.9781
+word2vec_lemmatized_cbow_window2_dim300,2,remembered u low estate mercy endureth ever,0.9774987101554872,0.9775
+word2vec_lemmatized_cbow_window2_dim300,3,shall judgment without mercy hath shewed mercy mercy rejoiceth judgment,0.9747777581214904,0.9748
+word2vec_lemmatized_cbow_window2_dim300,4,god rich mercy great love wherewith loved u,0.9731913208961488,0.9732
+word2vec_lemmatized_cbow_window2_dim300,5,indeed guidance mercy believer,0.9707273244857788,0.9707
+word2vec_lemmatized_cbow_window4_dim100,1,blasphemer persecutor injurious obtained mercy ignorantly unbelief,0.9769111275672911,0.9769
+word2vec_lemmatized_cbow_window4_dim100,2,shall judgment without mercy hath shewed mercy mercy rejoiceth judgment,0.973475694656372,0.9735
+word2vec_lemmatized_cbow_window4_dim100,3,remembered u low estate mercy endureth ever,0.9722940921783448,0.9723
+word2vec_lemmatized_cbow_window4_dim100,4,willeth runneth god sheweth mercy,0.9696087837219238,0.9696
+word2vec_lemmatized_cbow_window4_dim100,5,degree high position forgiveness mercy allah ever forgiving merciful,0.9685631394386292,0.9686
+word2vec_lemmatized_cbow_window4_dim300,1,blasphemer persecutor injurious obtained mercy ignorantly unbelief,0.9801207780838012,0.9801
+word2vec_lemmatized_cbow_window4_dim300,2,shall judgment without mercy hath shewed mercy mercy rejoiceth judgment,0.979393184185028,0.9794
+word2vec_lemmatized_cbow_window4_dim300,3,degree high position forgiveness mercy allah ever forgiving merciful,0.975986123085022,0.976
+word2vec_lemmatized_cbow_window4_dim300,4,indeed guidance mercy believer,0.9759135842323304,0.9759
+word2vec_lemmatized_cbow_window4_dim300,5,mercy lord indeed hearing knowing,0.9757352471351624,0.9757
+word2vec_lemmatized_skipgram_window2_dim100,1,degree high position forgiveness mercy allah ever forgiving merciful,0.9209387302398682,0.9209
+word2vec_lemmatized_skipgram_window2_dim100,2,indeed guidance mercy believer,0.9196640849113464,0.9197
+word2vec_lemmatized_skipgram_window2_dim100,3,remembered u low estate mercy endureth ever,0.9191074967384338,0.9191
+word2vec_lemmatized_skipgram_window2_dim100,4,lord merciful gracious slow anger plenteous mercy,0.9190029501914978,0.919
+word2vec_lemmatized_skipgram_window2_dim100,5,selects mercy will allah possessor great bounty,0.9187621474266052,0.9188
+word2vec_lemmatized_skipgram_window2_dim300,1,indeed guidance mercy believer,0.9373686909675598,0.9374
+word2vec_lemmatized_skipgram_window2_dim300,2,admitted mercy indeed righteous,0.9316828846931458,0.9317
+word2vec_lemmatized_skipgram_window2_dim300,3,admitted mercy indeed righteous,0.9316828846931458,0.9317
+word2vec_lemmatized_skipgram_window2_dim300,4,lord merciful gracious slow anger plenteous mercy,0.930734395980835,0.9307
+word2vec_lemmatized_skipgram_window2_dim300,5,degree high position forgiveness mercy allah ever forgiving merciful,0.929936707019806,0.9299
+word2vec_lemmatized_skipgram_window4_dim100,1,admitted mercy indeed righteous,0.941354751586914,0.9414
+word2vec_lemmatized_skipgram_window4_dim100,2,admitted mercy indeed righteous,0.941354751586914,0.9414
+word2vec_lemmatized_skipgram_window4_dim100,3,degree high position forgiveness mercy allah ever forgiving merciful,0.9289935827255248,0.929
+word2vec_lemmatized_skipgram_window4_dim100,4,selects mercy will allah possessor great bounty,0.9277400970458984,0.9277
+word2vec_lemmatized_skipgram_window4_dim100,5,indeed guidance mercy believer,0.9229754209518432,0.923
+word2vec_lemmatized_skipgram_window4_dim300,1,degree high position forgiveness mercy allah ever forgiving merciful,0.9354531764984132,0.9355
+word2vec_lemmatized_skipgram_window4_dim300,2,admitted mercy indeed righteous,0.9295853972434998,0.9296
+word2vec_lemmatized_skipgram_window4_dim300,3,admitted mercy indeed righteous,0.9295853972434998,0.9296
+word2vec_lemmatized_skipgram_window4_dim300,4,selects mercy will allah possessor great bounty,0.9234601855278016,0.9235
+word2vec_lemmatized_skipgram_window4_dim300,5,believed fear allah believe messenger give double portion mercy make light walk forgive allah forgiving merciful,0.9150859713554382,0.9151
+word2vec_stemmed_cbow_window2_dim100,1,forgiv affection,0.999718189239502,0.9997
+word2vec_stemmed_cbow_window2_dim100,2,forgiv us debt forgiv debtor,0.9594582319259644,0.9595
+word2vec_stemmed_cbow_window2_dim100,3,avoid major sin immor angri forgiv,0.9501799941062928,0.9502
+word2vec_stemmed_cbow_window2_dim100,4,one fear bequeath error sin correct sin upon inde allah forgiv merci,0.9487671852111816,0.9488
+word2vec_stemmed_cbow_window2_dim100,5,say servant transgress sin despair merci allah inde allah forgiv sin inde forgiv merci,0.9487397074699402,0.9487
+word2vec_stemmed_cbow_window2_dim300,1,forgiv affection,0.9998317956924438,0.9998
+word2vec_stemmed_cbow_window2_dim300,2,merci unright sin iniqu rememb,0.9683813452720642,0.9684
+word2vec_stemmed_cbow_window2_dim300,3,avoid major sin immor angri forgiv,0.9625500440597534,0.9626
+word2vec_stemmed_cbow_window2_dim300,4,forgiv us debt forgiv debtor,0.9621069431304932,0.9621
+word2vec_stemmed_cbow_window2_dim300,5,one fear bequeath error sin correct sin upon inde allah forgiv merci,0.9595885276794434,0.9596
+word2vec_stemmed_cbow_window4_dim100,1,forgiv affection,0.9998745918273926,0.9999
+word2vec_stemmed_cbow_window4_dim100,2,say servant transgress sin despair merci allah inde allah forgiv sin inde forgiv merci,0.977222740650177,0.9772
+word2vec_stemmed_cbow_window4_dim100,3,degre high posit forgiv merci allah ever forgiv merci,0.9722639322280884,0.9723
+word2vec_stemmed_cbow_window4_dim100,4,ceas inde allah forgiv merci,0.961958646774292,0.962
+word2vec_stemmed_cbow_window4_dim100,5,commit misde repent believ inde lord thereaft forgiv merci,0.9615178108215332,0.9615
+word2vec_stemmed_cbow_window4_dim300,1,forgiv affection,0.999779462814331,0.9998
+word2vec_stemmed_cbow_window4_dim300,2,say servant transgress sin despair merci allah inde allah forgiv sin inde forgiv merci,0.9785664677619934,0.9786
+word2vec_stemmed_cbow_window4_dim300,3,one fear bequeath error sin correct sin upon inde allah forgiv merci,0.9753673672676086,0.9754
+word2vec_stemmed_cbow_window4_dim300,4,degre high posit forgiv merci allah ever forgiv merci,0.9736555814743042,0.9737
+word2vec_stemmed_cbow_window4_dim300,5,merci unright sin iniqu rememb,0.9662551283836364,0.9663
+word2vec_stemmed_skipgram_window2_dim100,1,forgiv affection,0.9967995285987854,0.9968
+word2vec_stemmed_skipgram_window2_dim100,2,forgiv us debt forgiv debtor,0.94733726978302,0.9473
+word2vec_stemmed_skipgram_window2_dim100,3,avoid major sin immor angri forgiv,0.925973653793335,0.926
+word2vec_stemmed_skipgram_window2_dim100,4,said ask forgiv lord inde forgiv merci,0.9115726947784424,0.9116
+word2vec_stemmed_skipgram_window2_dim100,5,degre high posit forgiv merci allah ever forgiv merci,0.9087493419647216,0.9087
+word2vec_stemmed_skipgram_window2_dim300,1,forgiv affection,0.99784117937088,0.9978
+word2vec_stemmed_skipgram_window2_dim300,2,forgiv us debt forgiv debtor,0.949515461921692,0.9495
+word2vec_stemmed_skipgram_window2_dim300,3,avoid major sin immor angri forgiv,0.9265240430831908,0.9265
+word2vec_stemmed_skipgram_window2_dim300,4,degre high posit forgiv merci allah ever forgiv merci,0.9180294275283812,0.918
+word2vec_stemmed_skipgram_window2_dim300,5,said ask forgiv lord inde ever perpetu forgiv,0.9179392457008362,0.9179
+word2vec_stemmed_skipgram_window4_dim100,1,forgiv affection,0.9944008588790894,0.9944
+word2vec_stemmed_skipgram_window4_dim100,2,forgiv us debt forgiv debtor,0.9402092695236206,0.9402
+word2vec_stemmed_skipgram_window4_dim100,3,repent allah seek forgiv allah forgiv merci,0.9149746894836426,0.915
+word2vec_stemmed_skipgram_window4_dim100,4,said ask forgiv lord inde forgiv merci,0.912541687488556,0.9125
+word2vec_stemmed_skipgram_window4_dim100,5,say servant transgress sin despair merci allah inde allah forgiv sin inde forgiv merci,0.910313069820404,0.9103
+word2vec_stemmed_skipgram_window4_dim300,1,forgiv affection,0.9936547875404358,0.9937
+word2vec_stemmed_skipgram_window4_dim300,2,forgiv us debt forgiv debtor,0.9418049454689026,0.9418
+word2vec_stemmed_skipgram_window4_dim300,3,repent allah seek forgiv allah forgiv merci,0.9204148650169371,0.9204
+word2vec_stemmed_skipgram_window4_dim300,4,say servant transgress sin despair merci allah inde allah forgiv sin inde forgiv merci,0.9171860814094543,0.9172
+word2vec_stemmed_skipgram_window4_dim300,5,said ask forgiv lord inde forgiv merci,0.914216160774231,0.9142

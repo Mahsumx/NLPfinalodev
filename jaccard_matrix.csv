@@ -1,0 +1,17 @@
+,word2vec_lemmatized_cbow_window2_dim100,word2vec_lemmatized_cbow_window2_dim300,word2vec_lemmatized_cbow_window4_dim100,word2vec_lemmatized_cbow_window4_dim300,word2vec_lemmatized_skipgram_window2_dim100,word2vec_lemmatized_skipgram_window2_dim300,word2vec_lemmatized_skipgram_window4_dim100,word2vec_lemmatized_skipgram_window4_dim300,word2vec_stemmed_cbow_window2_dim100,word2vec_stemmed_cbow_window2_dim300,word2vec_stemmed_cbow_window4_dim100,word2vec_stemmed_cbow_window4_dim300,word2vec_stemmed_skipgram_window2_dim100,word2vec_stemmed_skipgram_window2_dim300,word2vec_stemmed_skipgram_window4_dim100,word2vec_stemmed_skipgram_window4_dim300
+word2vec_lemmatized_cbow_window2_dim100,1.0,0.667,0.429,0.429,0.25,0.125,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+word2vec_lemmatized_cbow_window2_dim300,0.667,1.0,0.429,0.429,0.25,0.125,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+word2vec_lemmatized_cbow_window4_dim100,0.429,0.429,1.0,0.429,0.25,0.125,0.125,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+word2vec_lemmatized_cbow_window4_dim300,0.429,0.429,0.429,1.0,0.25,0.286,0.286,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+word2vec_lemmatized_skipgram_window2_dim100,0.25,0.25,0.25,0.25,1.0,0.5,0.5,0.286,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+word2vec_lemmatized_skipgram_window2_dim300,0.125,0.125,0.125,0.286,0.5,1.0,0.6,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+word2vec_lemmatized_skipgram_window4_dim100,0.125,0.125,0.125,0.286,0.5,0.6,1.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+word2vec_lemmatized_skipgram_window4_dim300,0.0,0.0,0.125,0.125,0.286,0.333,0.6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+word2vec_stemmed_cbow_window2_dim100,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.667,0.25,0.429,0.429,0.429,0.429,0.429
+word2vec_stemmed_cbow_window2_dim300,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.667,1.0,0.111,0.429,0.429,0.429,0.25,0.25
+word2vec_stemmed_cbow_window4_dim100,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.111,1.0,0.429,0.25,0.25,0.25,0.25
+word2vec_stemmed_cbow_window4_dim300,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.429,0.429,0.429,1.0,0.25,0.25,0.25,0.25
+word2vec_stemmed_skipgram_window2_dim100,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.429,0.429,0.25,0.25,1.0,0.667,0.429,0.429
+word2vec_stemmed_skipgram_window2_dim300,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.429,0.429,0.25,0.25,0.667,1.0,0.25,0.25
+word2vec_stemmed_skipgram_window4_dim100,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.429,0.25,0.25,0.25,0.429,0.25,1.0,1.0
+word2vec_stemmed_skipgram_window4_dim300,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.429,0.25,0.25,0.25,0.429,0.25,1.0,1.0
