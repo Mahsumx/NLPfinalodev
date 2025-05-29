@@ -49,15 +49,3 @@ python jaccard.py
 - `preprocessing`: Lemmatized / Stemmed
 
 16 kombinasyonun her biri ayrı model olarak eğitildi.
-
-## 🧾 Örnek Giriş
-```bash
-Input: observe lying vanity forsake mercy
-```
-> Sistem tüm modeller üzerinden giriş yorumuna en benzer 5 yorumu üretir.
-
-## 📈 Rapor
-Tüm açıklamalar için lütfen [final raporu](./RAPOR.md) inceleyiniz.
-
-## 🔗 GitHub
-https://github.com/Mahsumx/NLPodev
