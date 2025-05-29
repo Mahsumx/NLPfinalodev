@@ -5,30 +5,6 @@ Bu projede, dini metinlerden (özellikle Reddit üzerindeki yorumlar) elde edile
 ## 🔍 Amaç
 Verilen bir dini içerikli metne benzer yorumları bulmak için farklı vektörleme ve benzerlik ölçüm tekniklerini kullanmak.
 
-## 📂 Proje Yapısı
-```
-.
-├── religious_texts.csv                  # Ham veri
-├── clean_lemmatized.csv                # Lemmatize edilmiş veri
-├── clean_stemmed.csv                   # Stem edilmiş veri
-├── tfidf_lemmatized.csv                # TF-IDF matrisleri
-├── tfidf_stemmed.csv
-├── word2vec_models/                    # 16 Word2Vec modeli
-├── model_outputs.csv                   # Giriş yorumu için model çıktıları
-├── model_average_similarity_scores.csv
-├── manual_scoring_filled.csv           # Elle verilmiş puanlar
-├── model_comparison_scores.csv         # Otomatik + manuel puanların karşılaştırması
-├── jaccard_matrix.csv                  # Öneri kümeleri arası Jaccard skorları
-├── scripts/
-│   ├── word2vec.py                     # Model eğitimi
-│   ├── tfidf_vectorizer.py             # TF-IDF üretimi
-│   ├── lemmastem.py                    # Ön işleme
-│   ├── generate_model_outputs.py       # Model çıktıları üretir
-│   ├── compute_average_similarity.py   # Ortalama cosine skorları
-│   ├── compare_models_scores.py        # Model karşılaştırma tablosu
-│   ├── jaccard.py                      # Jaccard matrisi üretimi
-```
-
 ## ⚙ Kullanılan Kütüphaneler
 - `nltk`
 - `gensim`
